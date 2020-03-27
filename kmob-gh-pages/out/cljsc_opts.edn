@@ -1,0 +1,1 @@
+{:browser-repl true, :output-dir "kmob-gh-pages/out", :main kmob.core, :output-to "kmob-gh-pages/out/main.js", :aot-cache true}
