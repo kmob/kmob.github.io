@@ -3,5 +3,6 @@
 .AppleDouble
 .LSOverride
 .cpcache
-/kmob-gh-pages
-!/kmob-gh-pages/out/main.js
+!kmob-gh-pages/out
+kmob-gh-pages/out/*
+!kmob-gh-pages/out/main.js
